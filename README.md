@@ -1,4 +1,4 @@
 # Bioinformatics-Resources
 Project for the Bioinformatics Resources course
 
-<pre> ``` ├── data/ # Raw or example data (if allowed) ├── scripts/ # Your R/Python scripts ├── results/ # Output (tables, plots, figures) ├── README.md # Project description └── requirements.txt # Dependencies (optional) ``` </pre>
+If you are a QCB student (welcome! If you need any help, feel free to contact me), you can use it as a reference, but first remember to check  "BR_Assignment_24_25.pdf" because what you need to do this year may be different and require different R packages.
