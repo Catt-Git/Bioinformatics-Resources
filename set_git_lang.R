@@ -1,1 +1,1 @@
-# This is a useless file required to tag the repository as being written in R
+# This is a dummy file required to tag the repository as being written in R
